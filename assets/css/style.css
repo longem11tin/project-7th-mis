@@ -545,6 +545,16 @@ h6 {
     flex-direction: column;
   }
 
+  .clients {
+    padding-top: 20px;
+    margin-bottom: 250px;
+  }
+  
+  .features {
+    padding-top: 20px;
+    margin-bottom: 250px;
+  }
+
   /* #hero .map-3 .item {
     display: none;
   } */
@@ -652,12 +662,12 @@ section {
 --------------------------------------------------------------*/
 .clients {
   padding-top: 20px;
-  margin-bottom: 100px;
+  margin-bottom: 400px;
 }
 
 .features {
   padding-top: 20px;
-  margin-bottom: 100px;
+  margin-bottom: 400px;
 }
 
 
